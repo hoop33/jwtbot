@@ -49,6 +49,6 @@ Apologies if I've inadvertently omitted any library or any contributor.
 
 ## License
 
-Copyright &copy; 2018 Rob Warner
+Copyright &copy; 2019 Rob Warner
 
 Licensed under the [MIT License](https://hoop33.mit-license.org/)
