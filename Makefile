@@ -77,7 +77,7 @@ clean:
 .PHONY: deps
 deps:
 	go get -u github.com/FiloSottile/vendorcheck
-	#go get -u github.com/golang/dep/cmd/dep
+	go get -u github.com/golang/dep/cmd/dep
 	go get -u github.com/golang/lint/golint
 	go get -u github.com/kisielk/errcheck
 	go get -u github.com/mdempsky/unconvert
