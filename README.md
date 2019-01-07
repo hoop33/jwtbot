@@ -6,7 +6,7 @@
 
 jwtbot (pronounced "jot - bot" lets you create JWTs from the command line. As a tool, it's woefully anemic: it supports setting a subject, an algorithm, and a signing key only. Hey -- that's all I needed for right now.
 
-*Note:* Not all "supported" algorithms currently work. I really just created this because I frequently need JWTs for local development, and I don't want to bother with cert generation. So I just "none" for the algorithm. I used to use <https://jwt.io> to create these JWTs, but they've apparently dropped support for "none." So I know "none" and the "hs*" algorithms work, and the other ones don't yet. One day, I'll probably get to it . . . but I gladly accept PRs!
+*Note:* Not all "supported" algorithms currently work. I really just created this because I frequently need JWTs for local development, and I don't want to bother with cert generation. So I just use "none" for the algorithm. I used to use <https://jwt.io> to create these JWTs, but they've apparently dropped support for "none." So I know "none" and the "hs*" algorithms work, and the other ones don't yet. One day, I'll probably get to it . . . but I gladly accept PRs!
 
 ## Installation
 
